@@ -1,0 +1,7 @@
+.ex{
+    background-blend-mode: multiply ;
+    background: line;
+}
+.ratings img{
+    width: 18px;
+}
